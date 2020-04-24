@@ -1,0 +1,6 @@
+ var books={
+     
+    BooksName :"",
+    booksPrice:"",
+     
+ };
